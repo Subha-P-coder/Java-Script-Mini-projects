@@ -43,6 +43,9 @@ This repository contains a collection of small front-end projects built with **H
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+---exit
+
+
 
 
 ---
