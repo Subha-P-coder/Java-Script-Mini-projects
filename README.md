@@ -38,48 +38,100 @@ This repository contains a collection of small front-end projects built with **H
 
 ---
 ## Set up
-### 1. Clone the repository
+
+A collection of simple and fun projects built with **HTML**, **CSS**, and **JavaScript**. Great for beginners to explore DOM manipulation, event handling, and browser-based interactivity.
+
+---
+
+## 📁 Projects Included
+
+- ✅ Calculator
+- 📅 Mini Calendar
+- 🎯 Drag and Drop
+- 💬 Quote Generator
+- 📋 To-Do List
+
+---
+
+## 🚀 Setup / Getting Started
+
+Follow these steps to run any project locally:
+
+### 1. Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
-exit
 
+```
+### 2. Navigate to a Project Folder
+```bash
+cd calculator
+```
+
+### 3. Open the Project in Your Browser
+
+🖱️ Simple Way
+Double-click the index.html file
+
+or right-click and choose Open with > Your Browser
+
+🌐 Recommended Way (Local Server)
+```bash
+http://localhost:8000
+```
+
+### 4. Enjoy and Explore!
+View and interact with the project in your browser.
+
+Open the files in a code editor like VS Code to customize or learn.
 
 ---
 
-## Project Structure
-
-```bash
+## 📁 Project Structure
+```text
 /js-mini-projects
 │
 ├── calculator
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 ├── mini-calendar
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 ├── drag-and-drop
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 ├── quote-generator
-│ ├── index.html
-│ ├── style.css
-│ └── script.js
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
 │
 └── todo-list
-├── index.html
-├── style.css
-└── script.js
-exit
+    ├── index.html
+    ├── style.css
+    └── script.js
+```
 ---
 
-## License
+📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
+
+
+
+
+
+
+
+
+
+
